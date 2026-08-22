@@ -1,7 +1,7 @@
-<h1 align="center">Engineering <a href="https://github.com/Your-New-Org-Name">Zero Day</a> Solutions.</h1><br>
+<h1 align="center">Engineering <a href="https://github.com/Your-New-Org-Name">Zero Day Studio</a> Solutions.</h1><br>
 
 <p align="center">
-  <a href="https://github.com/Zero-Day-Studio">
+  <a href="https://github.com/ZeroDayStudio">
     <img src="https://avatars.githubusercontent.com/u/319863398?s=200&v=4" alt="Zero Day logo" height="140">
   </a>
 </p>
@@ -11,20 +11,20 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Zero-Day-Studio/zero-day-sih-arch">View Core Architecture</a>
+  <a href="https://github.com/ZeroDayStudio/zero-day-arch">View Core Architecture</a>
   ·
-  <a href="https://github.com/orgs/Zero-Day-Studio/people">Meet the Team</a>
+  <a href="https://github.com/orgs/ZeroDayStudio/people">Meet the Team</a>
   </p>
 
 ----
 
-#### 👋 The Zero Day Mission.
+#### 👋 The Zero Day Studio Mission.
 
 <sub>We specialize in rapid prototyping and competitive engineering. From robust Node.js, Express, and MongoDB backends to seamless user interfaces, we focus on solving real-world problems under strict time constraints. Our team thrives on pushing the boundaries of what six developers can architect, build, and deploy from scratch.</sub>
 
 #### 🦺 Our Development Ethos.
 
-<sub>Even moving at hackathon speed, the Zero Day team follows strict development protocols. We maintain clean branching strategies, enforce Pull Request reviews, and prioritize system stability. We believe in writing code that doesn't just win competitions, but scales effectively in production.</sub>
+<sub>Even moving at hackathon speed, the Zero Day Studio team follows strict development protocols. We maintain clean branching strategies, enforce Pull Request reviews, and prioritize system stability. We believe in writing code that doesn't just win competitions, but scales effectively in production.</sub>
 
 #### 👾 Tech Stack & Capabilities.
 
