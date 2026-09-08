@@ -1,4 +1,4 @@
-<h1 align="center">Engineering <a href="https://github.com/ZeroDayStudio">Zero Day Studio</a> Solutions.</h1><br>
+<h1 align="center"><a href="https://github.com/ZeroDayStudio">Zero Day</a></h1><br>
 
 <p align="center">
   <a href="https://github.com/ZeroDayStudio">
@@ -18,14 +18,14 @@
 
 ----
 
-#### 👋 The Zero Day Studio Mission.
+#### The Zero Day Mission.
 
 <sub>We specialize in rapid prototyping and competitive engineering. From robust Node.js, Express, and MongoDB backends to seamless user interfaces, we focus on solving real-world problems under strict time constraints. Our team thrives on pushing the boundaries of what six developers can architect, build, and deploy from scratch.</sub>
 
-#### 🦺 Our Development Ethos.
+#### Our Development Ethos.
 
 <sub>Even moving at hackathon speed, the Zero Day Studio team follows strict development protocols. We maintain clean branching strategies, enforce Pull Request reviews, and prioritize system stability. We believe in writing code that doesn't just win competitions, but scales effectively in production.</sub>
 
-#### 👾 Tech Stack & Capabilities.
+#### Tech Stack & Capabilities.
 
 <sub>Our core ecosystem revolves around full-stack JavaScript and TypeScript. We leverage modern frameworks, automated CI/CD pipelines via GitHub Actions, and agile collaboration to eliminate bottlenecks, allowing us to focus 100% of our effort on feature delivery and problem-solving.</sub>
